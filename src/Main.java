@@ -6,6 +6,7 @@ public class Main {
         System.out.println("För variant 2");
         System.out.println("Nu ska vi merga dessa två projekt, spännande!");
         System.out.println("Planerade en liten merger här men icke-san-icke");
+        System.out.println("Skumt..");
 
     }
 }
