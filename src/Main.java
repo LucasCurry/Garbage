@@ -8,5 +8,7 @@ public class Main {
         System.out.println("Planerade en liten merger här men icke-san-icke");
         System.out.println("Skumt..");
 
+        System.out.println("This is going nowhere, what are we doing here???");
+
     }
 }
